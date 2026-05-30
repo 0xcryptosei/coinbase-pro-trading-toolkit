@@ -4,7 +4,6 @@
 <!-- ⛔️ AUTO-GENERATED-CONTENT:START (VERSIONBADGE) -->
 [![npm](https://img.shields.io/badge/npm-v0.4.0-green.svg)](https://www.npmjs.com/package/coinbase-pro-trading-toolkit)
 <!-- ⛔️ AUTO-GENERATED-CONTENT:END -->
-
 **Note**: The `gdax-trading-toolkit` package is deprecated and might have to be removed from NPM. Please migrate to the `coinbase-pro-trading-toolkit` package to ensure future compatibility.
 
 Provide all the tools traders need, both professional and hobbyist alike, to create automated trading bots on the
